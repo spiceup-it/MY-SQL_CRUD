@@ -1,2 +1,2 @@
 # MY-SQL_CRUD
-This repository has a curd functionality using MYSQL database
+This repository has a CRUD functionality using MYSQL database
